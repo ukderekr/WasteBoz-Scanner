@@ -1,0 +1,7 @@
+{
+  "name": "WasteBoz - Scanner",
+  "description": "A mobile-first application to identify European Waste Catalogue (EWC) codes via keyword search or image recognition.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
